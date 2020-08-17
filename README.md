@@ -52,7 +52,7 @@ This was a collective effort imagined, executed and revised by:</br>
 [Igor Delesposti](https://github.com/igordelesposti)</br>
 [João Fonseca](https://github.com/joaopf4)</br>
 [João Meira](https://github.com/Meira-JH)</br>
-[Mário Luz](https://github.com/MarioLuzz)</br>
+[Mário Luz](https://github.com/Mario-Luz)</br>
 [Ricardo Araujo](https://github.com/araujoricardo)</br>
 
 Support by: 
