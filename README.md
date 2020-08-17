@@ -50,7 +50,7 @@ npm start
 
 ## Contribution 🧙‍♂️🦹‍♀️🧛‍♀️🧜‍♂️🧟‍♀️
 
-This was a collective effort imagined, executed and revised by:
+This was a collective effort imagined, executed and revised by:</br>
 [Igor Delesposti](https://github.com/igordelesposti)</br>
 [João Fonseca](https://github.com/joaopf4)</br>
 [João Meira](https://github.com/Meira-JH)</br>
