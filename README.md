@@ -7,8 +7,14 @@
 
 FutureEats is an imaginary mobile site that reproduces food ordering services similar to UberEats.
 
+
+## The App
 ![futureEats](https://user-images.githubusercontent.com/60905493/90396399-8757f600-e06c-11ea-823c-a005753dc1d7.gif)
 
+The API was provided by Labenu.
+[API Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
+
+We develop the entire front-end concerned with best code practices to fit use of react-redux and connected-router tools/libs. In order to do that, the source folder was divided in actions, components, containers, reducers and support folders (icons, imgs and style).
 
 ## Tools and technologies 🛠
 
@@ -17,14 +23,6 @@ Languages: Javascript | CSS | HTML</br>
 Framework: ReactJS</br>
 Libs: Redux | Axios | Connected-router | Styled-components | Material-UI</br>
 Tests: JEST</br>
-
-## The App
-
-The API was provided by Labenu.
-[API Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
-
-We develop the entire front-end concerned with best code practices to fit use of react-redux and connected-router tools/libs. In order to do that, the source folder was divided in actions, components, containers, reducers and support folders (icons, imgs and style).
-
 
 ## Running the app 🏃‍♂️
 
