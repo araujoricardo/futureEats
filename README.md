@@ -12,11 +12,11 @@ FutureEats is an imaginary mobile site that reproduces food ordering services si
 
 ## Tools and technologies 🛠
 
-Environment: Node.js
-Languages: Javascript | CSS | HTML
-Framework: ReactJS
-Libs: Redux | Axios | Connected-router | Styled-components | Material-UI
-Tests: JEST
+Environment: Node.js</br>
+Languages: Javascript | CSS | HTML</br>
+Framework: ReactJS</br>
+Libs: Redux | Axios | Connected-router | Styled-components | Material-UI</br>
+Tests: JEST</br>
 
 ## The App
 
